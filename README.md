@@ -7,7 +7,7 @@ A clean and professional landing page built from a Figma design to practice pixe
 - Google Fonts integration
 
 ## 🚀 Live Demo
-
+https://al-slaug.github.io/02-landing-project/
 
 ## Key Features
 - Pixel-perfect approach (matching the original design).
